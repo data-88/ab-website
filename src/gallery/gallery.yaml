@@ -132,11 +132,28 @@ images:
       description: Advertising campaign for Bacardi
       collections:
         - lifestyle
-  - path: lifestyle\Cape_Town_2017_Lifestyle_Tourism_IMG_3538.jpg
+  - path: lifestyle/Cape_Town_2017_Lifestyle_Tourism_IMG_3538.jpg
     meta:
       title: Cape Town Tourism
       description: Advertising campaign for Cape Town Tourism
       collections:
         - lifestyle
-        
+  - path: lifestyle/funkoffvirgin.jpg
+    meta:
+      title: Virgin Active Campaign
+      description: Campaign for Virgin Active Product Funk Off
+      collections:
+        - lifestyle
+  - path: lifestyle/FNB.jpg
+    meta:
+      title: First National Bank
+      description: Campaign for First National Bank
+      collections:
+        - lifestyle
+  - path: lifestyle/GWC_0027_2.jpg
+    meta:
+      title: First National Bank
+      description: Campaign for VA Waterfront Business Distric
+      collections:
+        - lifestyle
         
