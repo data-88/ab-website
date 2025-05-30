@@ -8,9 +8,9 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'AB',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Andrew Brauteseth',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
@@ -20,7 +20,7 @@ export default {
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/andrewbrautesethnstins',
 			icon: Instagram,
 		} as SocialLink,
 	],

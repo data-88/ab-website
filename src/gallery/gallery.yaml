@@ -1,37 +1,36 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: fashion
+    name: Fashion
+  - id: lifestyle
+    name: Lifestyle
+  - id: portraits
+    name: Portraits
 images:
-  - path: nature/without-exif.jpg
+  - path: fashion/ameroca-tooday-2.jpg
     meta:
-      title: Nature scene 1
+      title: America Today
       description: A beautiful nature landscape showcasing natural beauty.
       collections:
         - featured
-        - nature
-  - path: nature/nature-2.jpg
+        - fashion
+  - path: fashion/donne.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Donne Dumas in Gardens
+      description: Model in gardens Cape Town
       collections:
-        - nature
-  - path: nature/nature-3.jpg
+        - fashion
+  - path: fashion/durban.jpg
     meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
+      title: Skater in Durban
+      description: A moment of action in Durban Skate Park
       collections:
-        - featured
-        - nature
-  - path: nature/nature-5.jpg
+        - fashion
+  - path: fashion/fashion_1.jpg
     meta:
       title: Nature scene 5
       description: Natural landscape showing the raw beauty of the environment.
       collections:
-        - nature
+        - fashion
   - path: nature/nature-7.jpg
     meta:
       title: Nature scene 7
