@@ -6,7 +6,7 @@ collections:
   - id: portraits
     name: Portraits
 images:
-  - path: fashion/ameroca-tooday-2.jpg
+  - path: fashion/america-today-2.jpg
     meta:
       title: America Today
       description: A beautiful nature landscape showcasing natural beauty.
@@ -27,47 +27,96 @@ images:
         - fashion
   - path: fashion/fashion_1.jpg
     meta:
-      title: Nature scene 5
+      title: Fashion photo
       description: Natural landscape showing the raw beauty of the environment.
       collections:
         - fashion
-  - path: nature/nature-7.jpg
+  - path: fashion/JBC_Karoo-Campaign.jpg
     meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
+      title: JBC Karroo
+      description: Spanish Model for JBC Belgium.
       collections:
         - featured
-        - nature
-  - path: nature/nature-8.jpg
+        - fashion
+  - path: fashion/laura_outlaws.jpg
     meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
+      title: Laura from Outlaws models
+      description: Portrait of a young model
       collections:
-        - nature
-  - path: nature/L1002174.jpg
+        - fashion
+  - path: fashion/Nicola_kotze_GWC_1925.jpg
     meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
+      title: Nicola from Boss Models
+      description: Shot with the CNN
       collections:
         - featured
-        - street
-  - path: travel/travel-1.jpg
+        - fashion
+  - path: fashion/unlimited_fashion_india.jpg
     meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
+      title: Unlimited shoot
+      description: Shot for Unlimited with SA Media productions
+      collections:
+        - fashion
+  - path: fashion/wilreze.jpg
+    meta:
+      title: Wilreze
+      description: Wilreze shot in Black and White
       collections:
         - featured
-        - travel
+        - fashion
+  - path: fashion/ameriica-today3.jpg
+    meta:
+      title: America Today Fashion
+      description: Shot with America Today from the Netherlands
+      collections:
+        - featured
+        - fashion
+  - path: fashion/JBC_Belgium_Women_Fashion.jpg
+    meta:
+      title: JBC
+      description: Shot with JBC for Women's fashion
+      collections:
+        - fashion
+  - path: fashion/GWC_3723.jpg
+    meta:
+      title: JBC
+      description: Shot with JBC for Women's fashion
+      collections:
+        - fashion
+  - path: fashion/GWC_6009.jpg
+    meta:
+      title: VA Waterfront
+      description: Waterfront Fashion for Women
+      collections:
+        - fashion
+  - path: fashion/lukhanyo.jpg
+    meta:
+      title: Mndingi Collection
+      description: Essentials for Lukhanyo Mndingi
+      collections:
+        - fashion
+  - path: fashion/AmericaToday.jpg
+    meta:
+      title: America Today Fashion
+      description: Shot with America Today from the Netherlands
+      collections:
+        - fashion
+  - path: fashion/Jessica_Lee_Buchanan.jpg
+    meta:
+      title: Jessica
+      description: Jessica on the beach
+      collections:
+        - fashion
+  - path: fashion/america-today.jpg
+    meta:
+      title: Jessica
+      description: Jessica on the beach
+      collections:
+        - fashion
+  - path: fashion/unlimited.jpg
+    meta:
+      title: Unlimited with Gaby
+      description: Unlimited campaign in Camps Bay
+      collections:
+        - fashion
+        
