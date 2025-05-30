@@ -20,7 +20,7 @@ export default {
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com/andrewbrautesethnstins',
+			url: 'https://www.instagram.com/andrewbrauteseth',
 			icon: Instagram,
 		} as SocialLink,
 	],

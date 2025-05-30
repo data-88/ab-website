@@ -119,4 +119,24 @@ images:
       description: Unlimited campaign in Camps Bay
       collections:
         - fashion
+  - path: lifestyle/gemma_donnely_planet_fitness.jpg
+    meta:
+      title: Planet Fitness
+      description: Gemma for Planet Fitness
+      collections:
+        - lifestyle
+        - featured
+  - path: lifestyle/bacardi.jpg
+    meta:
+      title: Bacardi
+      description: Advertising campaign for Bacardi
+      collections:
+        - lifestyle
+  - path: lifestyle\Cape_Town_2017_Lifestyle_Tourism_IMG_3538.jpg
+    meta:
+      title: Cape Town Tourism
+      description: Advertising campaign for Cape Town Tourism
+      collections:
+        - lifestyle
+        
         
