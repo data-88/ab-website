@@ -5,7 +5,6 @@ import tailwindcss from '@tailwindcss/vite';
 export default defineConfig({
 	site: 'https://rockem.github.io',
 	base: 'astro-photography-portfolio',
-	outDir: './dist',
 	vite: {
 		plugins: [tailwindcss()],
 	},
