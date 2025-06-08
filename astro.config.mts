@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://ab-website-eight.vercel.app',
+	site: 'https://andrewbrauteseth.netlify.app/',
 	base: 'ab-website',
 	vite: {
 		plugins: [tailwindcss()],
