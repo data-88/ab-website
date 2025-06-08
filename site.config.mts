@@ -14,11 +14,6 @@ export default {
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/data-88/ab-website',
-			icon: Github,
-		} as SocialLink,
-		{
 			name: 'Instagram',
 			url: 'https://www.instagram.com/andrewbrauteseth',
 			icon: Instagram,
